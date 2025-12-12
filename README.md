@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! I'm Samantha Osborne</h1>
 <h3 align="center">Game Design & Development ‘26 @ RIT | C#, C++, Unity, Front End Dev, and Narrative Design | Building Engaging and Impactful Interactive Experiences</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsobo" alt="samsobo" /></a> </p>
-
 - 🔭 I’m currently working on [Portfolio Website](https://samosbo.github.io/Portfolio/)
 
 - 🌱 I’m currently learning **API Frameworks and mySQL**
