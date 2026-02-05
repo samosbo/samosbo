@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://samosbo.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **API Frameworks and mySQL**
+- 🌱 I’m currently learning **Mobile Development and Networking**
 
 - 👨‍💻 All of my projects are available at [https://samosbo.github.io/Portfolio/](https://samosbo.github.io/Portfolio/)
 
